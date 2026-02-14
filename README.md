@@ -1,5 +1,5 @@
 # ChatBot
-An AI chatbot Mr.Shaboinky treats diseases and provides basic health advice based on user input and symptom descriptions. hfyhkvugvv kuyvnuvnkuvbivuvkvkvv
+An AI chatbot Mr.Shaboinky treats diseases and provides basic health advice based on user input and symptom descriptions.
 # [Meet Dr. Shaboinky](https://healthchatbot-dr-shaboinky-2.onrender.com)
 
 ![Project Screenshot](./frontend/images/r1.png)
